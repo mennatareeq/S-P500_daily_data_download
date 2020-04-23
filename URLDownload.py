@@ -5,7 +5,6 @@ Created on Sat Dec 22 21:13:52 2018
 @author: Menna
 """
 
-
 import urllib 
 import datetime
 
